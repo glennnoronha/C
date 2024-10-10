@@ -16,10 +16,15 @@ int main() {
     case 'B':
         printf("Well done!\n");
         break;
+
     case 'C':
         printf("Good job!\n");
         break;
-    
+
+    case 'D':
+        printf("You passed!\n");
+        break;
+        
     default:
         printf("Keep trying!\n");
         break;
