@@ -1,10 +1,9 @@
-# include <stdio.h>
+#include <stdio.h>
 
-int main() {
-
+int main()
+{
     char grade;
-
-    printf("Enter your grade: ");
+    printf("Enter your letter grade: ");
     scanf(" %c", &grade);
 
     switch (grade)
@@ -24,7 +23,7 @@ int main() {
     case 'D':
         printf("You passed!\n");
         break;
-        
+
     default:
         printf("Keep trying!\n");
         break;
