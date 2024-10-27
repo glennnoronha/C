@@ -1,0 +1,8 @@
+Quick Sort:
+Comparisons: 19
+Swaps: 16
+
+Insertion Sort:
+Comparisons: 14
+Swaps: 14
+
